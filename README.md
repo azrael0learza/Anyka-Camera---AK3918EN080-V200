@@ -5,6 +5,13 @@ Source - [Anyka's website](http://www.anyka.com/en/productInfo.aspx?id=121)
 
 The model I have uses the [YI IoT app](https://play.google.com/store/apps/details?id=com.yunyi.smartcamera&hl=en&gl=US)
 
+Camera in question -
+<p align="center">
+
+  <img src="https://github.com/azrael0learza/Anyka-Camera---AK3918EN080-V200/blob/main/AnykaCam.png" width="200">
+
+</p>
+
 ### Specs
 CPU
 * ARM926EJ-S
@@ -84,7 +91,11 @@ Linux version 3.4.35  (gcc version 4.8.5 (anyka (gcc-4.8.5 + binutils-2.24 + ulc
 -AKV_2.5.04
 ```
 
+
 ```
 MemTotal:          36540 kB
 MemFree:            8148 kB
 ```
+
+### Both Telnet and FTP are accessible
+username: root      -      password: (leave empty)
