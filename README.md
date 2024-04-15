@@ -3,6 +3,8 @@
 ### Platform
 Source - [Anyka's website](http://www.anyka.com/en/productInfo.aspx?id=121)
 
+The model I have uses the [YI IoT app](https://play.google.com/store/apps/details?id=com.yunyi.smartcamera&hl=en&gl=US)
+
 ### Specs
 CPU
 * ARM926EJ-S
@@ -54,3 +56,35 @@ Peripheral Interfaces
 
 Package
 * QFNL80, ELQFP128
+
+
+
+AK39 clocks: CPU 400MHz, MEM 200MHz, ASIC 100MHz
+
+
+
+```
+Processor	: ARM926EJ-S rev 5 (v5l)
+BogoMIPS	: 199.06
+Features	: swp half fastmult edsp java 
+CPU implementer	: 0x41
+CPU architecture: 5TEJ
+CPU variant	: 0x0
+CPU part	: 0x926
+CPU revision	: 5
+
+Hardware	: Cloud39EV2_AK3918E80PIN_MNBD
+Revision	: 0000
+Serial		: 0000000000000000
+```
+
+
+```
+Linux version 3.4.35  (gcc version 4.8.5 (anyka (gcc-4.8.5 + binutils-2.24 + ulcibc-0.9.33.2)(20170223)) ) #2 Mon Jun 5 14:24:08 CST 2023
+-AKV_2.5.04
+```
+
+```
+MemTotal:          36540 kB
+MemFree:            8148 kB
+```
